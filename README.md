@@ -20,6 +20,8 @@ This is a startup that is building a new and disruptive platform called Fintech 
  ![ganache new bal](https://user-images.githubusercontent.com/99453114/176759821-eb70e468-dc51-433b-b7ad-4158e26d390b.png)
 
  Screenshot of the recipient’s address balance and history in the Ganache application
+ ![ganache account](https://user-images.githubusercontent.com/99453114/176760332-cbe97d90-243c-4bdc-b975-a72c98e0acf8.png)
+
  ![ganache blocks](https://user-images.githubusercontent.com/99453114/176759955-11943d29-f667-4a0b-ae73-0f371f7eeeb8.png)
 (Please note that the mnemonics have changed since I captured the screenshot. It will not replicate my .env mnemonics.)
 
